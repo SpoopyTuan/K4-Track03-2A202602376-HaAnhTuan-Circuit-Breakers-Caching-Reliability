@@ -1,7 +1,7 @@
 # Lab 25B — Report
 
 **Họ tên:** Hà Anh Tuấn     **MSSV**: 2A202602376
-**Commit:** Chưa tạo commit bài nộp.
+**Commit:** `a89e840`
 **Điểm tự động:** 84/88 (4 điểm SLO ẩn chờ giảng viên chấm).
 
 Số liệu dùng seed mô phỏng 25, seed client 1 như factory mặc định.
